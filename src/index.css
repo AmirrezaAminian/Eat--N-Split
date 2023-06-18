@@ -129,6 +129,7 @@ form {
 
 label {
   font-weight: 500;
+  font-size: 1.4rem;
 }
 
 label::first-letter {
@@ -166,4 +167,10 @@ form h2 {
   text-transform: uppercase;
   letter-spacing: -0.5px;
   margin-bottom: 1.6rem;
+}
+
+
+option {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
 }
